@@ -1,2 +1,2 @@
-# kahvi
+# Kahvibotti
 Kiltiksen kahvibotti
